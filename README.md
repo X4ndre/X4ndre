@@ -6,7 +6,6 @@
 - [Reconocimiento-Facial](https://github.com/X4ndre/Reconocimiento-Facial)
 - [Predicción de Imágenes de animales](https://github.com/X4ndre/Prediccion_Imagenes/tree/main)
 
-<img aling="right" alt="No Hay Proyectos" width="200px" src="https://user-images.githubusercontent.com/93948426/189587143-7128d0cf-4400-4467-8f80-ff877d3914ee.gif" />
 
 
 ### Languages and Tools:
