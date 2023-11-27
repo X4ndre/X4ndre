@@ -3,7 +3,7 @@
 <img aling="right" alt="PACMAN" width="500px" src="https://user-images.githubusercontent.com/93948426/189583870-8e82722c-c663-4b59-a6d6-fa6922ff9d0d.gif" style="padding-right:10px;" />
 
 ## Proyectos
-No hay
+[Reconocimiento-Facial](https://github.com/X4ndre/Reconocimiento-Facial)
 
 <img aling="right" alt="No Hay Proyectos" width="500px" src="https://user-images.githubusercontent.com/93948426/189587143-7128d0cf-4400-4467-8f80-ff877d3914ee.gif" style="padding-right:10px;" />
 
