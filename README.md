@@ -1,4 +1,3 @@
-# Sebastián
 
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">Developer & Data Science</h3>
