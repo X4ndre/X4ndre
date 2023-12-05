@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sebastian</h2>
+<h1 align="left">Hi 👋! My name is Sebastian</h1>
 
 ###
 
@@ -31,7 +31,9 @@
 
 [//]: <img aling="right" alt="PACMAN" width="500px" src="https://user-images.githubusercontent.com/93948426/189583870-8e82722c-c663-4b59-a6d6-fa6922ff9d0d.gif" style="padding-right:10px;" />
 
-## Proyectos
+
+<h1 align="left">Proyectos</h1>
+
 - [Reconocimiento-Facial](https://github.com/X4ndre/Reconocimiento-Facial)
 - [Predicción de Imágenes de animales](https://github.com/X4ndre/Prediccion_Imagenes/tree/main)
 - [Encriptación en Linux](https://github.com/X4ndre/Encriptacion-Linux)
