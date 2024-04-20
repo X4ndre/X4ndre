@@ -38,6 +38,7 @@
 - [Predicción de Imágenes de animales](https://github.com/X4ndre/Prediccion_Imagenes/tree/main)
 - [Encriptación en Linux](https://github.com/X4ndre/Encriptacion-Linux)
 - [Carro Autonomo](https://github.com/X4ndre/Carro-Autonomo)
+- [Water Quality](https://github.com/X4ndre/Water_Quality)
 
 
 
