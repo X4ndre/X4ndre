@@ -34,11 +34,12 @@
 
 <h1 align="left">Proyectos</h1>
 
-- [Reconocimiento-Facial](https://github.com/X4ndre/Reconocimiento-Facial)
-- [Predicción de Imágenes de animales](https://github.com/X4ndre/Prediccion_Imagenes/tree/main)
-- [Encriptación en Linux](https://github.com/X4ndre/Encriptacion-Linux)
-- [Carro Autonomo](https://github.com/X4ndre/Carro-Autonomo)
-- [Water Quality](https://github.com/X4ndre/Water_Quality)
+- [Reconocimiento-Facial](https://github.com/X4ndre/Reconocimiento-Facial) = Facial recognition project with the use of Python TensorFlow, Keras, OpenCV and at own database.
+- [Predicción de Imágenes de animales](https://github.com/X4ndre/Prediccion_Imagenes/tree/main) = Recognition of animal images with the use of Python TensorFlow, Keras and at own database.
+- [Encriptación en Linux](https://github.com/X4ndre/Encriptacion-Linux) = Python codes to encrypt and decrypt files on Linux.
+- [Carro Autonomo](https://github.com/X4ndre/Carro-Autonomo) = The project consists of a car within Unity 3D which, using machine learning methods, is capable of learning to drive on a random track.
+- [Water Quality](https://github.com/X4ndre/Water_Quality) = Jupiter Notebook where different machine learning techniques are used to predict water quality
+- [Netflix_title_database](https://github.com/X4ndre/Netflix_titles_database) = A JupyterNotebook were Pyhton pandas techniques are use to clean a database for machine learning and data science uses.
 
 
 
