@@ -2,12 +2,12 @@
 
 ###
 
-<h3 align="center">Developer & Data Science</h3>
+<h3 align="center">Developer, Machine Learning & Data Science</h3>
 
 
 ###
 
-<p align="left">🌱 I’m currently learning Unreal Engine<br><br>👨‍💻 All of my projects are available at https://github.com/X4ndre <br><br>📫 How to reach me: sebaz0831@gmail.com</p>
+<p align="left">🌱 I’m currently learning PyTorch<br><br>👨‍💻 All of my projects are available at https://github.com/X4ndre <br><br>📫 How to reach me: sebaz0831@gmail.com</p>
 
 ###
 
