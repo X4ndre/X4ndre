@@ -32,7 +32,7 @@
 [//]: <img aling="right" alt="PACMAN" width="500px" src="https://user-images.githubusercontent.com/93948426/189583870-8e82722c-c663-4b59-a6d6-fa6922ff9d0d.gif" style="padding-right:10px;" />
 
 
-<h1 align="left">Proyectos</h1>
+<h1 align="left">Projects</h1>
 
 - [Reconocimiento-Facial](https://github.com/X4ndre/Reconocimiento-Facial) = Facial recognition project with the use of Python TensorFlow, Keras, OpenCV and at own database.
 - [Predicción de Imágenes de animales](https://github.com/X4ndre/Prediccion_Imagenes/tree/main) = Recognition of animal images with the use of Python TensorFlow, Keras and at own database.
