@@ -7,7 +7,13 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning PyTorch<br><br>👨‍💻 All of my projects are available at https://github.com/X4ndre <br><br>📫 How to reach me: sebaz0831@gmail.com</p>
+<p align="left">🌱 I’m currently learning PyTorch <br> 📫 How to reach me: sebaz0831@gmail.com</p>
+<br><p align="left">👨‍💻 All of my projects are available at: <br></p>
+
+- [Kaggle](https://www.kaggle.com/sebastinazamaravils)
+- [Github](https://github.com/X4ndre)
+  
+  <br>
 
 ###
 
