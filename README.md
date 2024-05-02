@@ -46,6 +46,8 @@
 - [Carro Autonomo](https://github.com/X4ndre/Carro-Autonomo) = The project consists of a car within Unity 3D which, using machine learning methods, is capable of learning to drive on a random track.
 - [Water Quality](https://github.com/X4ndre/Water_Quality) = Jupiter Notebook where different machine learning techniques are used to predict water quality
 - [Netflix_title_database](https://github.com/X4ndre/Netflix_titles_database) = A JupyterNotebook were Pyhton pandas techniques are use to clean a database for machine learning and data science uses.
+- [NPL_Tweets](https://github.com/X4ndre/NPL_Tweets) = Approach to Natural Language Processing with Disaster Tweets competition
+- [Regression_Abalone](https://github.com/X4ndre/Regression_Abalone) = Approach to Regression with an Abalone Dataset competition
 
 
 
