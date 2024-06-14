@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Developer, Machine Learning & Data Science</h3>
+<h3 align="center">Developer, Data Engineer, Machine Learning & Data Science</h3>
 
 
 ###
