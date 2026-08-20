@@ -34,3 +34,19 @@ jobs:
           plugin_languages_threshold: 0%
 
           config_timezone: America/Mexico_City
+
+      - uses: lowlighter/metrics@v3.34 # revisa https://github.com/lowlighter/metrics/releases y usa el tag más reciente
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: X4ndre
+          template: classic
+          filename: metrics-calendar.svg
+
+          # Sin "base" para que solo se genere el widget del calendario, nada más
+          base: ""
+
+          # Calendario isométrico de contribuciones (el "full year calendar")
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          config_timezone: America/Mexico_City
