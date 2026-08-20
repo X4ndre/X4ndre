@@ -1,75 +1,179 @@
-<h1 align="left">Hi 👋! My name is Sebastian</h1>
-
-###
-
-<h3 align="center">Developer, Data Engineer, Machine Learning & Data Science</h3>
-
-
-###
-
-<p align="left">🌱 I’m currently learning PyTorch <br> 📫 How to reach me: sebaz0831@gmail.com</p>
-<br><p align="left">👨‍💻 All of my projects are available at: <br></p>
-
-- [Kaggle](https://www.kaggle.com/sebastinazamaravils)
-- [Github](https://github.com/X4ndre)
-  
-  <br>
-
-###
-
-<img align="right" height="270" src="https://i.pinimg.com/originals/60/df/77/60df77c5e60f20045cedef89c57010c5.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=X4ndre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Contact me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sebasti%C3%A1n-azamar-avil%C3%A9s-aa3018260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nombre" height="30" width="40" /></a>
+<!-- ==================== HEADER BANNER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%2C%20I%20am%20Sebastian%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Data%20Engineer%20%7C%20Machine%20Learning%20and%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=650&lines=Currently+learning+PyTorch+%F0%9F%94%A5;Machine+Learning+and+Data+Science+Enthusiast;Turning+data+into+insights%2C+one+model+at+a+time;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-azamar-avil%C3%A9s-aa3018260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/sebastinazamaravils">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:sebaz0831@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/X4ndre">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-[//]: <img aling="right" alt="PACMAN" width="500px" src="https://user-images.githubusercontent.com/93948426/189583870-8e82722c-c663-4b59-a6d6-fa6922ff9d0d.gif" style="padding-right:10px;" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=X4ndre&color=a277ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/X4ndre?style=for-the-badge&color=a277ff&logo=github&label=FOLLOWERS" />
+</p>
 
+<br>
 
-<h1 align="left">Projects</h1>
+<!-- ==================== ABOUT ME ==================== -->
+## 🧑‍💻 About Me
 
-- [Reconocimiento-Facial](https://github.com/X4ndre/Reconocimiento-Facial) = Facial recognition project with the use of Python TensorFlow, Keras, OpenCV and at own database.
-- [Predicción de Imágenes de animales](https://github.com/X4ndre/Prediccion_Imagenes/tree/main) = Recognition of animal images with the use of Python TensorFlow, Keras and at own database.
-- [Encriptación en Linux](https://github.com/X4ndre/Encriptacion-Linux) = Python codes to encrypt and decrypt files on Linux.
-- [Carro Autonomo](https://github.com/X4ndre/Carro-Autonomo) = The project consists of a car within Unity 3D which, using machine learning methods, is capable of learning to drive on a random track.
-- [Water Quality](https://github.com/X4ndre/Water_Quality) = Jupiter Notebook where different machine learning techniques are used to predict water quality
-- [Netflix_title_database](https://github.com/X4ndre/Netflix_titles_database) = A JupyterNotebook were Pyhton pandas techniques are use to clean a database for machine learning and data science uses.
-- [NPL_Tweets](https://github.com/X4ndre/NPL_Tweets) = Approach to Natural Language Processing with Disaster Tweets competition
-- [Regression_Abalone](https://github.com/X4ndre/Regression_Abalone) = Approach to Regression with an Abalone Dataset competition
+- 🔭 I'm currently working on Machine Learning & Data Science projects
+- 🌱 I'm currently learning **PyTorch**
+- 💡 I love turning messy data into clean, useful insights
+- 📫 How to reach me: **sebaz0831@gmail.com**
+- 👀 Check out all my work on [Kaggle](https://www.kaggle.com/sebastinazamaravils) and [GitHub](https://github.com/X4ndre)
 
+<br>
 
+<!-- ==================== GITHUB STATS ==================== -->
+## 📊 GitHub Metrics & Top Languages
 
-### Languages and Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/X4ndre/X4ndre/main/metrics.svg" alt="GitHub metrics" width="100%" />
+</p>
 
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  /> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" alt="cplusplus logo"  /> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo"  /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  /> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://anaconda.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a></p>
+<br>
 
+<!-- ==================== SKILLS ==================== -->
+## 🧰 Languages & Tools
 
-<br />
-<br />
+**Languages**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Machine Learning & Data Science**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Platforms & Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<br>
+
+<!-- ==================== PROJECTS ==================== -->
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/X4ndre/Reconocimiento-Facial">🎭 Reconocimiento Facial</a></h3>
+      <p>Facial recognition system built with Python, TensorFlow, Keras and OpenCV, trained on a custom database.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/X4ndre/Prediccion_Imagenes/tree/main">🐾 Predicción de Imágenes de Animales</a></h3>
+      <p>Animal image recognition model built with Python, TensorFlow and Keras on a custom image database.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/X4ndre/Encriptacion-Linux">🔐 Encriptación en Linux</a></h3>
+      <p>Python scripts to encrypt and decrypt files on Linux systems.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/X4ndre/Carro-Autonomo">🚗 Carro Autónomo</a></h3>
+      <p>A self-driving car simulation in Unity 3D that uses machine learning to learn how to drive on a randomized track.</p>
+      <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+      <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/-ML-A277FF?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/X4ndre/Water_Quality">💧 Water Quality</a></h3>
+      <p>Jupyter Notebook applying different machine learning techniques to predict water quality.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/X4ndre/Netflix_titles_database">🎬 Netflix Titles Database</a></h3>
+      <p>Data cleaning with pandas on a Netflix titles dataset, prepared for machine learning and data science use.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/X4ndre/NPL_Tweets">🐦 NLP Tweets</a></h3>
+      <p>Natural Language Processing approach to the "Disaster Tweets" Kaggle competition.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-NLP-A277FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/X4ndre/Regression_Abalone">🐚 Regression Abalone</a></h3>
+      <p>Regression modeling approach to the Kaggle "Abalone Dataset" competition.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ==================== CONTACT ==================== -->
+## 📬 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-azamar-avil%C3%A9s-aa3018260/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:sebaz0831@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/sebastinazamaravils" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</p>
