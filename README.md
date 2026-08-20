@@ -47,6 +47,10 @@
   <img src="https://raw.githubusercontent.com/X4ndre/X4ndre/main/metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/X4ndre/X4ndre/main/metrics-calendar.svg" alt="Contribution calendar" width="100%" />
+</p>
+
 <br>
 
 <!-- ==================== SKILLS ==================== -->
