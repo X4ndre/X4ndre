@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.34 # revisa https://github.com/lowlighter/metrics/releases y usa el tag más reciente
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS }}
           user: X4ndre
           template: classic
           filename: metrics.svg
