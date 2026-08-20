@@ -1,19 +1,34 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  schedule:
+    # Runs every Monday at 06:00 UTC — adjust as you like
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: METRICS_TOKEN
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34 # revisa https://github.com/lowlighter/metrics/releases y usa el tag más reciente
         with:
-          token: ${{ secrets.METRICS }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: X4ndre
+          template: classic
+          filename: metrics.svg
+
+          # Core sections of the card
+          base: header, activity, community, repositories, metadata
+
+          # Top languages plugin (this is the chart you asked for)
+          plugin_languages: yes
+          plugin_languages_analysis_type: repository
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+
+          config_timezone: America/Mexico_City
