@@ -1,8 +1,7 @@
 name: Metrics
 on:
   schedule:
-    # Runs every Monday at 06:00 UTC — adjust as you like
-    - cron: "0 6 * * 1"
+    - cron: "0 6 * * 1,4"
   workflow_dispatch: {}
   push:
     branches:
@@ -16,17 +15,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@v3.34 # revisa https://github.com/lowlighter/metrics/releases y usa el tag más reciente
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS }}
           user: X4ndre
           template: classic
           filename: Metrics/metrics.svg
 
-          # Core sections of the card
+          
           base: header, activity, community, repositories, metadata
 
-          # Top languages plugin (this is the chart you asked for)
+          
           plugin_languages: yes
           plugin_languages_analysis_type: repository
           plugin_languages_colors: github
@@ -35,17 +34,17 @@ jobs:
 
           config_timezone: America/Mexico_City
 
-      - uses: lowlighter/metrics@v3.34 # revisa https://github.com/lowlighter/metrics/releases y usa el tag más reciente
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS }}
           user: X4ndre
           template: classic
           filename: Metrics/metrics-calendar.svg
 
-          # Sin "base" para que solo se genere el widget del calendario, nada más
+         
           base: ""
 
-          # Calendario isométrico de contribuciones (el "full year calendar")
+         
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
