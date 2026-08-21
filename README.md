@@ -14,7 +14,7 @@
   <a href="https://www.kaggle.com/sebastinazamaravils">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:sebaz0831@gmail.com">
+  <a href="sebaz0831@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/X4ndre">
@@ -170,7 +170,7 @@
   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-azamar-avil%C3%A9s-aa3018260/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:sebaz0831@gmail.com" target="_blank">
+  <a href="sebaz0831@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/sebastinazamaravils" target="_blank">
