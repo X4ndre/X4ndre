@@ -11,17 +11,17 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: METRICS_TOKEN
     permissions:
       contents: write
+     environment: 
+       name: METRICS_TOKEN
     steps:
       - uses: lowlighter/metrics@v3.34 # revisa https://github.com/lowlighter/metrics/releases y usa el tag más reciente
         with:
-          token: ${{ secrets.METRICS }}
+          token: ${{ secrets.METRICS }}}
           user: X4ndre
           template: classic
-          filename: metrics.svg
+          filename: Metrics/metrics.svg
 
           # Core sections of the card
           base: header, activity, community, repositories, metadata
@@ -40,7 +40,7 @@ jobs:
           token: ${{ secrets.METRICS }}
           user: X4ndre
           template: classic
-          filename: metrics-calendar.svg
+          filename: Metrics/metrics-calendar.svg
 
           # Sin "base" para que solo se genere el widget del calendario, nada más
           base: ""
